@@ -1,0 +1,98 @@
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.exe
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.deps.json
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.runtimeconfig.json
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.Form1.resources
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.GenerateResource.cache
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfoInputs.cache
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfo.cs
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.CoreCompileInputs.cache
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\refint\EsercizioFile.dll
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.genruntimeconfig.cache
+C:\Users\leohu\Downloads\EsercizioFile\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\ref\EsercizioFile.dll
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.exe
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.deps.json
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.runtimeconfig.json
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.Form1.resources
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.GenerateResource.cache
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfoInputs.cache
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfo.cs
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.CoreCompileInputs.cache
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\refint\EsercizioFile.dll
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.genruntimeconfig.cache
+C:\Users\taiocchi.21206\Desktop\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\ref\EsercizioFile.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.exe
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.deps.json
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.runtimeconfig.json
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.Form1.resources
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.GenerateResource.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfoInputs.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfo.cs
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.CoreCompileInputs.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\refint\EsercizioFile.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.genruntimeconfig.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\ref\EsercizioFile.dll
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.exe
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.deps.json
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.runtimeconfig.json
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.Form1.resources
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.GenerateResource.cache
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfoInputs.cache
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfo.cs
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.CoreCompileInputs.cache
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.sourcelink.json
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\refint\EsercizioFile.dll
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.genruntimeconfig.cache
+C:\Users\lucta\Desktop\INFORMATICA\Es bernini (C#)\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\ref\EsercizioFile.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.exe
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.deps.json
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.runtimeconfig.json
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.Form1.resources
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.GenerateResource.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfoInputs.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfo.cs
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.CoreCompileInputs.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.sourcelink.json
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\refint\EsercizioFile.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.genruntimeconfig.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\FileCSharp\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\ref\EsercizioFile.dll
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.exe
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.deps.json
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.runtimeconfig.json
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\bin\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.Form1.resources
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.GenerateResource.cache
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfoInputs.cache
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.AssemblyInfo.cs
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.dll
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\refint\EsercizioFile.dll
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.pdb
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\EsercizioFile.genruntimeconfig.cache
+C:\Users\Utente\Downloads\FileCSharp-main\EsercizioFile\EsercizioFile\obj\Debug\net6.0-windows\ref\EsercizioFile.dll

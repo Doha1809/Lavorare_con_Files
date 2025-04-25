@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Downloads\\FileCSharp-main\\EsercizioFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CA66A8-038D-4BBA-B161-3014BBFD6021}|EsercizioFile\\EsercizioFile.csproj|c:\\users\\utente\\downloads\\filecsharp-main\\eserciziofile\\eserciziofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CA66A8-038D-4BBA-B161-3014BBFD6021}|EsercizioFile\\EsercizioFile.csproj|solutionrelative:eserciziofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CA66A8-038D-4BBA-B161-3014BBFD6021}|EsercizioFile\\EsercizioFile.csproj|C:\\Users\\Utente\\Downloads\\FileCSharp-main\\EsercizioFile\\eserciziofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1CA66A8-038D-4BBA-B161-3014BBFD6021}|EsercizioFile\\EsercizioFile.csproj|solutionrelative:eserciziofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CA66A8-038D-4BBA-B161-3014BBFD6021}|EsercizioFile\\EsercizioFile.csproj|c:\\users\\utente\\downloads\\filecsharp-main\\eserciziofile\\eserciziofile\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CA66A8-038D-4BBA-B161-3014BBFD6021}|EsercizioFile\\EsercizioFile.csproj|solutionrelative:eserciziofile\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Utente\\Downloads\\FileCSharp-main\\EsercizioFile\\EsercizioFile\\Form1.cs",
+              "RelativeDocumentMoniker": "EsercizioFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utente\\Downloads\\FileCSharp-main\\EsercizioFile\\EsercizioFile\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "EsercizioFile\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:12:57.66Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Downloads\\FileCSharp-main\\EsercizioFile\\EsercizioFile\\Form1.cs",
+              "RelativeDocumentMoniker": "EsercizioFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utente\\Downloads\\FileCSharp-main\\EsercizioFile\\EsercizioFile\\Form1.cs",
+              "RelativeToolTip": "EsercizioFile\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wGIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:34:05.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Downloads\\FileCSharp-main\\EsercizioFile\\EsercizioFile\\Persona.cs",
+              "RelativeDocumentMoniker": "EsercizioFile\\Persona.cs",
+              "ToolTip": "C:\\Users\\Utente\\Downloads\\FileCSharp-main\\EsercizioFile\\EsercizioFile\\Persona.cs",
+              "RelativeToolTip": "EsercizioFile\\Persona.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:34:30.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
